@@ -32,7 +32,7 @@ The "Patient_3.ipynb" notebook uses a dataset containing patient information, su
 This repository is licensed under the MIT License, which means that you are free to use, modify, and distribute the code for any purpose. However, please note that the dataset used in this notebook may have its own license, and you should ensure compliance with any applicable data usage guidelines.
 
 # Acknowledgements
-This project was developed by Sajin Payandath and Machupalli Sree Pragna as part of a research project]. The code and ideas in this repository may have been inspired by other open-source projects, tutorials, or resources, and appropriate credits and references have been provided in the notebook. We acknowledge the contributions of the open-source community to the development of this project.
+This project was developed by Machupalli Sree Pragna under the guidance of Dr J Girija Jagannath as part of a research & final year project. The code and ideas in this repository may have been inspired by other open-source projects, tutorials, or resources, and appropriate credits and references have been provided in the notebook. We acknowledge the contributions of the open-source community to the development of this project.
 
 # Contact Information
 If you have any questions, suggestions, or feedback, please feel free to contact M Sree Pragna at sreepragnamachupalli@gmail.com. Thank you for your interest in this project!
