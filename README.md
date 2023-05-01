@@ -13,7 +13,7 @@ To use the code in this repository, follow the steps below:
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/sajinpgupta/Predict_Medicine_Dosage.git
+git clone https://github.com/PragnaReddy11/Chronic_Pain_Project_JG.git
 Navigate to the directory where the repository is cloned and open the "Patient_3.ipynb" notebook in Jupyter Notebook or Jupyter Lab.
 
 Ensure that you have the necessary dependencies installed, such as NumPy, Pandas, Scikit-learn, and Matplotlib. If not, you can install them using the following command:
@@ -32,7 +32,7 @@ The "Patient_3.ipynb" notebook uses a dataset containing patient information, su
 This repository is licensed under the MIT License, which means that you are free to use, modify, and distribute the code for any purpose. However, please note that the dataset used in this notebook may have its own license, and you should ensure compliance with any applicable data usage guidelines.
 
 # Acknowledgements
-This project was developed by Machupalli Sree Pragna under the guidance of Dr J Girija Jagannath as part of a research & final year project. The code and ideas in this repository may have been inspired by other open-source projects, tutorials, or resources, and appropriate credits and references have been provided in the notebook. We acknowledge the contributions of the open-source community to the development of this project.
+This project was developed by Machupalli Sree Pragna & team 19P11 under the guidance of Dr J Girija Jagannath as part of a research & final year project. The code and ideas in this repository may have been inspired by other open-source projects, tutorials, or resources, and appropriate credits and references have been provided in the notebook. We acknowledge the contributions of the open-source community to the development of this project.
 
 # Contact Information
 If you have any questions, suggestions, or feedback, please feel free to contact M Sree Pragna at sreepragnamachupalli@gmail.com. Thank you for your interest in this project!
